@@ -38,7 +38,7 @@
     margin-top: 10px; 
   } 
 
-  nav img { 
+  nav > img { 
     max-width: 90px; 
     margin: 0px auto; 
   } 
@@ -51,12 +51,12 @@
   }
   
 
-  nav p { 
+  nav > p { 
     margin: 10px 0px; 
 
   } 
 
-  nav .footer1 { 
+  nav > .footer1 { 
     font-size: 24px; 
     color: darkgoldenrod;
     position: relative;
@@ -64,7 +64,7 @@
     border: 1px black;
   } 
 
-  nav .footer2 { 
+  nav > .footer2 { 
     position: relative; 
     background-color: black; 
     margin-right: 1px;
