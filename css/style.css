@@ -56,7 +56,7 @@
 
   } 
 
-  nav > .footer1 { 
+  nav .footer1 { 
     font-size: 24px; 
     color: darkgoldenrod;
     position: relative;
@@ -64,7 +64,7 @@
     border: 1px black;
   } 
 
-  nav > .footer2 { 
+  nav .footer2 { 
     position: relative; 
     background-color: black; 
     margin-right: 1px;
